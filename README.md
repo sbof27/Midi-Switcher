@@ -28,4 +28,5 @@ ESP IDF ESP32-S3-WROOM-1 N8R2 N16R8 44Pin Typ-C 8M PSRAM ESP32 S3
 
 
 ### Display Driver
-Dies ist der verwendete Display Treiber: https://github.com/russhughes/st7789_mpy
+Ich verwende den Displaytreiber von Russ Huges: https://github.com/russhughes/st7789_mpy
+Den Support für 170 x 340px Displays habe ich hinzugefügt.
