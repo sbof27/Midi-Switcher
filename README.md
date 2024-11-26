@@ -1,7 +1,8 @@
 # Midi-Switcher
 
 ## Projekt-Struktur
-midi-switcher-esp32-s3/
+```plaintext
+Midi-Switcher
 │
 ├── docs/                # Projekt-Dokumentation (z. B. README, technische Details)
 ├── firmware/            # Code für den ESP32-S3
