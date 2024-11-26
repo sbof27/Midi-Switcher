@@ -12,7 +12,7 @@ Midi-Switcher
 ├── app/                 # Falls eine App/Webinterface entwickelt wird
 ├── hardware/            # Schaltpläne, Layouts und technische Daten
 └── tests/               # Test-Skripte und Simulationen
-``
+`
 
 ### Display Driver
 Dies ist der verwendete Display Treiber: https://github.com/russhughes/st7789_mpy
