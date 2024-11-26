@@ -14,5 +14,11 @@ Midi-Switcher
 └── tests/               # Test-Skripte und Simulationen
 ```
 
+### Verwendete Hardware
+#### Microcontroller
+ESP IDF ESP32-S3-WROOM-1 N8R2 N16R8 44Pin Typ-C 8M PSRAM ESP32 S3
+![grafik](https://github.com/user-attachments/assets/50c4f84c-c387-48bf-b7e6-bd904acaf6c0)
+
+
 ### Display Driver
 Dies ist der verwendete Display Treiber: https://github.com/russhughes/st7789_mpy
